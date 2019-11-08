@@ -35,7 +35,6 @@ default_message_blocks = [
     },
     {"type": "section", "text": {"type": "mrkdwn", "text": ""}},
     {"type": "context", "elements": [{"type": "mrkdwn", "text": "This slackbot was created by Eddy Hintze"}]}
-    # Artistically Directed by Price #
 ]
 
 
